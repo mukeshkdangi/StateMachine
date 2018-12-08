@@ -48,7 +48,7 @@ BUY
 (*, CANCEL) CANCELLED
 (4S, COMPLETE) COMPLETED
 
-The above input results in a state machine as follows
+# The above input results in a state machine as follows
 
 
 
